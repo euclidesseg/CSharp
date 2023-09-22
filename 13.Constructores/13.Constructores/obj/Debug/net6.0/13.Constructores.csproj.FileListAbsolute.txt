@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\bin\Debug\net6.0\13.Constructores.exe
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\bin\Debug\net6.0\13.Constructores.deps.json
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\bin\Debug\net6.0\13.Constructores.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\bin\Debug\net6.0\13.Constructores.dll
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\bin\Debug\net6.0\13.Constructores.pdb
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.dll
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\refint\13.Constructores.dll
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.pdb
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\13.Constructores.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\13.Constructores\13.Constructores\obj\Debug\net6.0\ref\13.Constructores.dll
