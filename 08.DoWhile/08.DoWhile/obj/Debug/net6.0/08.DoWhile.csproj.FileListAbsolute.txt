@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\bin\Debug\net6.0\08.DoWhile.exe
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\bin\Debug\net6.0\08.DoWhile.deps.json
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\bin\Debug\net6.0\08.DoWhile.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\bin\Debug\net6.0\08.DoWhile.dll
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\bin\Debug\net6.0\08.DoWhile.pdb
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.dll
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\refint\08.DoWhile.dll
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.pdb
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\08.DoWhile.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\08.DoWhile\08.DoWhile\obj\Debug\net6.0\ref\08.DoWhile.dll

@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\bin\Debug\net6.0\00.Introccion1.exe
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\bin\Debug\net6.0\00.Introccion1.deps.json
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\bin\Debug\net6.0\00.Introccion1.runtimeconfig.json
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\bin\Debug\net6.0\00.Introccion1.dll
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\bin\Debug\net6.0\00.Introccion1.pdb
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.AssemblyInfo.cs
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.dll
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\refint\00.Introccion1.dll
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.pdb
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\00.Introccion1.genruntimeconfig.cache
+C:\Users\Omar\source\repos\00.Introccion1\00.Introccion1\obj\Debug\net6.0\ref\00.Introccion1.dll

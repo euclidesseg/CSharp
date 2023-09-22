@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\bin\Debug\net6.0\09.Excepciones.exe
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\bin\Debug\net6.0\09.Excepciones.deps.json
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\bin\Debug\net6.0\09.Excepciones.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\bin\Debug\net6.0\09.Excepciones.dll
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\bin\Debug\net6.0\09.Excepciones.pdb
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.dll
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\refint\09.Excepciones.dll
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.pdb
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\09.Excepciones.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\09.Excepciones\09.Excepciones\obj\Debug\net6.0\ref\09.Excepciones.dll

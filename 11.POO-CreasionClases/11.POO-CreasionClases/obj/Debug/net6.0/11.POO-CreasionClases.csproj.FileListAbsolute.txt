@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\bin\Debug\net6.0\11.POO-CreasionClases.exe
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\bin\Debug\net6.0\11.POO-CreasionClases.deps.json
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\bin\Debug\net6.0\11.POO-CreasionClases.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\bin\Debug\net6.0\11.POO-CreasionClases.dll
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\bin\Debug\net6.0\11.POO-CreasionClases.pdb
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.dll
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\refint\11.POO-CreasionClases.dll
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.pdb
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\11.POO-CreasionClases.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\11.POO-CreasionClases\11.POO-CreasionClases\obj\Debug\net6.0\ref\11.POO-CreasionClases.dll

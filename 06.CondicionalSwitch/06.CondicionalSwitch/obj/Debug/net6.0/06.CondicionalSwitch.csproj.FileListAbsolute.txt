@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\bin\Debug\net6.0\06.CondicionalSwitch.exe
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\bin\Debug\net6.0\06.CondicionalSwitch.deps.json
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\bin\Debug\net6.0\06.CondicionalSwitch.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\bin\Debug\net6.0\06.CondicionalSwitch.dll
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\bin\Debug\net6.0\06.CondicionalSwitch.pdb
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.dll
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\refint\06.CondicionalSwitch.dll
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.pdb
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\06.CondicionalSwitch.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\06.CondicionalSwitch\06.CondicionalSwitch\obj\Debug\net6.0\ref\06.CondicionalSwitch.dll

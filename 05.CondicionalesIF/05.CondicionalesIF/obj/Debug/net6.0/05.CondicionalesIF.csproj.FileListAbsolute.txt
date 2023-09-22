@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\bin\Debug\net6.0\05.CondicionalesIF.exe
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\bin\Debug\net6.0\05.CondicionalesIF.deps.json
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\bin\Debug\net6.0\05.CondicionalesIF.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\bin\Debug\net6.0\05.CondicionalesIF.dll
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\bin\Debug\net6.0\05.CondicionalesIF.pdb
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.dll
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\refint\05.CondicionalesIF.dll
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.pdb
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\05.CondicionalesIF.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\05.CondicionalesIF\05.CondicionalesIF\obj\Debug\net6.0\ref\05.CondicionalesIF.dll

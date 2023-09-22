@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\bin\Debug\net6.0\03.Metodos.exe
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\bin\Debug\net6.0\03.Metodos.deps.json
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\bin\Debug\net6.0\03.Metodos.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\bin\Debug\net6.0\03.Metodos.dll
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\bin\Debug\net6.0\03.Metodos.pdb
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.dll
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\refint\03.Metodos.dll
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.pdb
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\03.Metodos.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\03.Metodos\03.Metodos\obj\Debug\net6.0\ref\03.Metodos.dll

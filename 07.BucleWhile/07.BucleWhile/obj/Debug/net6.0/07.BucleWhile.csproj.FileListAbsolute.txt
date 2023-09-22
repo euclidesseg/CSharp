@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\bin\Debug\net6.0\07.BucleWhile.exe
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\bin\Debug\net6.0\07.BucleWhile.deps.json
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\bin\Debug\net6.0\07.BucleWhile.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\bin\Debug\net6.0\07.BucleWhile.dll
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\bin\Debug\net6.0\07.BucleWhile.pdb
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.dll
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\refint\07.BucleWhile.dll
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.pdb
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\07.BucleWhile.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\07.BucleWhile\07.BucleWhile\obj\Debug\net6.0\ref\07.BucleWhile.dll

@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\bin\Debug\net6.0\12.POO-Encapsulamiento.exe
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\bin\Debug\net6.0\12.POO-Encapsulamiento.deps.json
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\bin\Debug\net6.0\12.POO-Encapsulamiento.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\bin\Debug\net6.0\12.POO-Encapsulamiento.dll
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\bin\Debug\net6.0\12.POO-Encapsulamiento.pdb
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.dll
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\refint\12.POO-Encapsulamiento.dll
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.pdb
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\12.POO-Encapsulamiento.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\12.POO-Encapsulamiento\12.POO-Encapsulamiento\obj\Debug\net6.0\ref\12.POO-Encapsulamiento.dll

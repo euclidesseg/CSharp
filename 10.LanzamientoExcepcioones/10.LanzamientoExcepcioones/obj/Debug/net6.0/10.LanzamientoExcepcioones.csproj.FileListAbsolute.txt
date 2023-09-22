@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\bin\Debug\net6.0\10.LanzamientoExcepcioones.exe
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\bin\Debug\net6.0\10.LanzamientoExcepcioones.deps.json
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\bin\Debug\net6.0\10.LanzamientoExcepcioones.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\bin\Debug\net6.0\10.LanzamientoExcepcioones.dll
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\bin\Debug\net6.0\10.LanzamientoExcepcioones.pdb
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.dll
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\refint\10.LanzamientoExcepcioones.dll
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.pdb
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\10.LanzamientoExcepcioones.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\10.LanzamientoExcepcioones\10.LanzamientoExcepcioones\obj\Debug\net6.0\ref\10.LanzamientoExcepcioones.dll

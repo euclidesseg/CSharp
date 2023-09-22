@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\bin\Debug\net6.0\04.Sobrecarga-Metodos.exe
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\bin\Debug\net6.0\04.Sobrecarga-Metodos.deps.json
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\bin\Debug\net6.0\04.Sobrecarga-Metodos.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\bin\Debug\net6.0\04.Sobrecarga-Metodos.dll
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\bin\Debug\net6.0\04.Sobrecarga-Metodos.pdb
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.dll
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\refint\04.Sobrecarga-Metodos.dll
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.pdb
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\04.Sobrecarga-Metodos.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\04.Sobrecarga-Metodos\04.Sobrecarga-Metodos\obj\Debug\net6.0\ref\04.Sobrecarga-Metodos.dll
