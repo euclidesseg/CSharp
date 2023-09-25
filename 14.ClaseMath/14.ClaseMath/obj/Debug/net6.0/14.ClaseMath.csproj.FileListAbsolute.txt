@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\bin\Debug\net6.0\14.ClaseMath.exe
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\bin\Debug\net6.0\14.ClaseMath.deps.json
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\bin\Debug\net6.0\14.ClaseMath.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\bin\Debug\net6.0\14.ClaseMath.dll
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\bin\Debug\net6.0\14.ClaseMath.pdb
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.dll
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\refint\14.ClaseMath.dll
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.pdb
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\14.ClaseMath.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\14.ClaseMath\14.ClaseMath\obj\Debug\net6.0\ref\14.ClaseMath.dll

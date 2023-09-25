@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\bin\Debug\net6.0\19.Interfaces.exe
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\bin\Debug\net6.0\19.Interfaces.deps.json
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\bin\Debug\net6.0\19.Interfaces.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\bin\Debug\net6.0\19.Interfaces.dll
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\bin\Debug\net6.0\19.Interfaces.pdb
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.dll
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\refint\19.Interfaces.dll
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.pdb
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\19.Interfaces.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\19.Interfaces\19.Interfaces\obj\Debug\net6.0\ref\19.Interfaces.dll

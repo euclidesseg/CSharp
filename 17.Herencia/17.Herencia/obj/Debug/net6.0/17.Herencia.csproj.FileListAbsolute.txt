@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\bin\Debug\net6.0\17.Herencia.exe
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\bin\Debug\net6.0\17.Herencia.deps.json
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\bin\Debug\net6.0\17.Herencia.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\bin\Debug\net6.0\17.Herencia.dll
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\bin\Debug\net6.0\17.Herencia.pdb
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.dll
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\refint\17.Herencia.dll
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.pdb
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\17.Herencia.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\17.Herencia\17.Herencia\obj\Debug\net6.0\ref\17.Herencia.dll

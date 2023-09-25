@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\bin\Debug\net6.0\16.ArraysPorParametros.exe
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\bin\Debug\net6.0\16.ArraysPorParametros.deps.json
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\bin\Debug\net6.0\16.ArraysPorParametros.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\bin\Debug\net6.0\16.ArraysPorParametros.dll
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\bin\Debug\net6.0\16.ArraysPorParametros.pdb
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.dll
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\refint\16.ArraysPorParametros.dll
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.pdb
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\16.ArraysPorParametros.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\16.ArraysPorParametros\16.ArraysPorParametros\obj\Debug\net6.0\ref\16.ArraysPorParametros.dll

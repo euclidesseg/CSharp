@@ -1,0 +1,15 @@
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\bin\Debug\net6.0\18.EjercicioPractico.exe
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\bin\Debug\net6.0\18.EjercicioPractico.deps.json
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\bin\Debug\net6.0\18.EjercicioPractico.runtimeconfig.json
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\bin\Debug\net6.0\18.EjercicioPractico.dll
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\bin\Debug\net6.0\18.EjercicioPractico.pdb
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.csproj.AssemblyReference.cache
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.AssemblyInfoInputs.cache
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.AssemblyInfo.cs
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.dll
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\refint\18.EjercicioPractico.dll
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.pdb
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\18.EjercicioPractico.genruntimeconfig.cache
+C:\Users\Omar\source\repos\CSharp\18.EjercicioPractico\18.EjercicioPractico\obj\Debug\net6.0\ref\18.EjercicioPractico.dll
